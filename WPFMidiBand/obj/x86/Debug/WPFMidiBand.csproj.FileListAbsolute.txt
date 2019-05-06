@@ -1,0 +1,89 @@
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\BassDrum.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\DrumSet.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\FloorTom.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Guitar.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\guitar_icon.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHat.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHatFixed.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHatTop.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\RideCymbal.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\SnareDrum.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Tom1.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Tom2.png
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Beat It.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Billy Jean.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Bizarre Love Triangle.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Black Dog.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Black Mountain Side.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blitzkrieg_Bop.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blue Monday 2.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blue Monday.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Ceremony.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Close To Me.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Dancing_Queen.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\dont stop believing.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Enter Sandman.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Friday Im In Love.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Helter Skelter.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Higher Ground.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\How Many More Times.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Iron Man.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\I_Wanna_Be_Sedated.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Kashmir.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Lullaby.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Manic Depression.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Moby Dick.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\NothingElseMatters.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Paranoid.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Perfect Kiss.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Poker Face.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Rock And Roll.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\SadButTrue.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Seven Nation Army.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Smoke On The Water.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Stairway To Heaven.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Sunday Bloody Sunday.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Sweet Child O Mine.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\The Lemon Song.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Thriller.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Under Pressure.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\We Will Rock Youwwry.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\With Or Without You.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\World.mid
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.exe.config
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.exe
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.pdb
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Collections.dll
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.dll
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.Timers.dll
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Threading.dll
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csprojAssemblyReference.cache
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\BassControl.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\BassControl.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\MainWindow.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Window1.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\App.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_Content.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.cache
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.lref
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\MainWindow.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Window1.baml
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.g.resources
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.Properties.Resources.resources
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.GenerateResource.cache
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CoreCompileInputs.cache
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CopyComplete
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.exe
+D:\多洛蕾斯的作业簿\C#实验\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.pdb
